@@ -1,2 +1,2 @@
 # friendGPT
-a telegram bot here for you, always
+a friend on telegram here for you, always
